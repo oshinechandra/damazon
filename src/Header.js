@@ -8,7 +8,7 @@ function Header() {
       className='header_ search'>
           <input
           className='header_searchInput'></input>
-          {/*Logo*/}
+          
 
       </div>
   </div>;
